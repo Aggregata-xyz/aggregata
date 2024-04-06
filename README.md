@@ -11,7 +11,7 @@
 </strong></p>
 
 <p align="center">
-  <a href="#GPT2Earn">
+  <a href="https://github.com/Aggregata-xyz/aggregata/releases/tag/v1.0.5-alpha">
     <b>GPT2Earn</b>
   </a>
   ·

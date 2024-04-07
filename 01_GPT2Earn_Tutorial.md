@@ -7,6 +7,8 @@ Friendly Reminder:
 You'll need to create accounts on [ChatGPT](https://chat.openai.com/) and [MetaMask](https://metamask.io/) to use Aggregata: GPT to Earn. 
 If you plan on uploading conversations with ChatGPT, you will also need to transfer $BNB from BNB Chain to BNB Greenfield on [Dcellar](https://dcellar.io/).
 
+Aggregata: GPT to Earn extension supports Chrome version 101 or above. For the extension to work properly, it would be best to update Chrome to the latest version.
+
 ## Downloading Aggregata: GPT to Earn Chrome extension
 **Step 1:** Download our Chrome extension.
 

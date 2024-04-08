@@ -59,6 +59,8 @@ Click `Sign` on the Signature request page.
 
 **Step 2:** Select the conversation, click Claim, then Sign in MetaMask Signature request page. Then the session will be uploaded.
 
+Since Aggregata is built on BNB Greenfield, BNB is adopted for transactions. Therefore, you need to have BNB in your wallet to cover transaction fees.
+
 Currently, **only 1 session** can be claimed at a time.
 <div align="center">
   <img src="./assets/image-6.png" width="30%" height="40%"/>
